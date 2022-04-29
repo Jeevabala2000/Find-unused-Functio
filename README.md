@@ -1,6 +1,6 @@
 # Find-unused-Function
 
-#Using Linux
+#Linux
 
 Step 1:Install the build essential packages
 
